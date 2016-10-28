@@ -1,0 +1,77 @@
+.wrapper{
+  max-width: 1345px;
+}
+
+.paletteColors{
+  clear: both;
+}
+
+.paletteColors *{
+  border: 1px solid gray;
+  border-radius: 20px;
+  height: 20px;
+  width: 20px;
+  float: left;
+  margin: 2px;
+}
+
+#red{
+  background-color: red;
+}
+
+#blue{
+  background-color: blue;
+}
+
+#blueViolet{
+  background-color: blueviolet;
+}
+
+#fuchsia{
+  background-color: fuchsia;
+}
+
+#chartreuse{
+  background-color: chartreuse;
+}
+
+#orange{
+  background-color: orange;
+}
+
+#yellow{
+  background-color: yellow;
+}
+
+#black{
+  background-color: black;
+}
+
+#tan{
+  background-color: tan;
+}
+
+#brown{
+  background-color: brown;
+}
+
+#green{
+  background-color: green;
+}
+
+#purple{
+  background-color: purple;
+}
+
+#pink{
+  background-color: pink;
+}
+
+.square{
+  border: 1px solid black;
+  width: 25px;
+  height: 25px;
+  margin: 3px;
+  float: left;
+  background-color: white;
+}
